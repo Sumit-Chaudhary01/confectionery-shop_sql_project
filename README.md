@@ -3,7 +3,7 @@
 ## Project Overview
 
 **Project Title**: confectionery shop Analysis  
-**Level**: Beginner  
+
 This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze sales data. The project involves setting up a sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries.
 
 ## Objectives
